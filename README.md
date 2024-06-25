@@ -10,6 +10,4 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <hr>
-<h1>Projetos</h1>
-<p>Estou desenvolvendo um software para realizar abertura de novas empresa em Londrina e cadastrar informações para liberar o alvará de funcionamento, alem de armazenar os dados guardados ele também terá um mapa mostrando informações sobre o IPTU do local onde a  empresa irá funcionar.</p>
-<a href="https://github.com/gabriellemospereira/LicencaAgil">Licença-ágil</a>
+
