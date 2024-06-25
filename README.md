@@ -1,12 +1,15 @@
-
-<h1>Olá sou Gabriel Rafael</h1>
-<h2>Se conecte comigo:</h2>
-[(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrafaell.p/)
+### Olá eu sou o Gabriel Rafael De Lemos 🖐🏼
+<h1>Se conecte comigo nas redes sociais:</h1>
+<a href="https://www.instagram.com/gabrielrafaell.p/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"></a>
 <hr>
- <h2>Tecnologia que trabalho</h2>
-
+<h1>Tecnologias com qual trabalho:</h1>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
+<img src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <hr>
-<h2>Projetos</h2>
-<h3>Licença àgil</h3>
-<p>Esse é um software que esotu trabalhando para desenvolver, onde se pode fazer o cadastramento de novas empresas que queiram tirar seu alvará de funcionamento, ele também mostra informações necessárias  sobre o IPTU do local onde a empresa vai funcionar e todos os dados necessários da empresa e seu dono.</p>
-<a href="https://github.com/gabriellemospereira/LicencaAgil">Liceça-ágil</a>
+<h1>Projetos</h1>
+<p>Estou desenvolvendo um software para realizar abertura de novas empresa em Londrina e cadastrar informações para liberar o alvará de funcionamento, alem de armazenar os dados guardados ele também terá um mapa mostrando informações sobre o IPTU do local onde a  empresa irá funcionar.</p>
+<a href="https://github.com/gabriellemospereira/LicencaAgil">Licença-ágil</a>
