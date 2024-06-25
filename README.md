@@ -1,11 +1,11 @@
 
 <h1>Olá sou Gabriel Rafael</h1>
 <h2>Se conecte comigo:</h2>
- <a href="https://www.instagram.com/gabrielrafaell.p/"><i class="fa-brands fa-square-instagram"></i></a>
- <a href="https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/"><i class="fa-brands fa-linkedin"></i></a>
+ <a href="https://www.instagram.com/gabrielrafaell.p/">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
+ <a href="https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/">	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<</i></a>
 <hr>
  <h2>Tecnologia que trabalho</h2>
-<i class="fab fa-js"></i> <i class="fa-brands fa-react"></i>  <i class="fa-brands fa-java"></i>
+
 <hr>
 <h2>Projetos</h2>
 <h3>Licença àgil</h3>
