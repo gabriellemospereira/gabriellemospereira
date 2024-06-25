@@ -1,8 +1,7 @@
 
 <h1>Olá sou Gabriel Rafael</h1>
 <h2>Se conecte comigo:</h2>
- <a href="https://www.instagram.com/gabrielrafaell.p/">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
- <a href="https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/">	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<</i></a>
+[(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrafaell.p/)
 <hr>
  <h2>Tecnologia que trabalho</h2>
 
