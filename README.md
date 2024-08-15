@@ -2,11 +2,20 @@
 <p align="center">👋 Olá, eu sou um desenvolvedor backend jr, estou estudando front-end para um projeto que na seção projetos logo abaixo explico mais sobre o projeto, mais sei desenvolver sites responsivos e estou me aperfeiçoando na linguagem Java,  Apesar de ter pouca experiência em empresa privada, sou um profissional dedicado e sempre busco me aprimorar. </P>
 <h2 align="center" style="color:#F7BD4A">🔌conecte-se comigo | Connect with me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5543991164468)
-[![E-mail](https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabriel.lemos.pereira93@gmail.com)
+<div align="center" style="border-radius:10px">
+  <a href="https://www.linkedin.com/in/gabriel-rafael-de-lemos-pereira/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/+5543991164468">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:gabriel.lemos.pereira93@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
+  </a>
+</div>
 
-<h1 style="color:#F91400">⚒️habilidades | Hard Skills</h1>
+
+<h1 align="center" style="color:#F91400">⚒️habilidades | Hard Skills</h1>
 
 <h3 align="center" style="color:#FA5600">🔥 <div style="display: inline_block"><br/>
 <img aLign="center"style="border-radius:10px" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
