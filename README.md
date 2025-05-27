@@ -66,6 +66,11 @@
 
 • Curso de Java | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+• CodeStart | 
+
+
+
+
 </div>
 <h2>projetos</h2>
 <p><a src="https://github.com/gabriellemospereira/LicencaAgil">Licença ágil</a></p>
